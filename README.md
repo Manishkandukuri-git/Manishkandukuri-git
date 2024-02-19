@@ -159,7 +159,7 @@
 </div>  
 <div align="center">  
 
-[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishkandukuri-git&show_icons=true&theme=dracula)](https://github.com/Manishkandukuri-git/github-readme-stats)
+<!--[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishkandukuri-git&show_icons=true&theme=dracula)](https://github.com/Manishkandukuri-git/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkandukuri-git&layout=donut-vertical&size_weight=0.5&count_weight=0.5)](https://github.com/Manishkandukuri-git/github-readme-stats)
 
