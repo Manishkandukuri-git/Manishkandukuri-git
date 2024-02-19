@@ -20,8 +20,17 @@
  🎒 I’m currently finishing my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
 
  🔭 Graduating in May 2024, I am open to Full Time roles in the US in **Front-end, Full Stack and Software Engineering**
+
+ 🔭 I’m a learner, working on improving Web Development skills
+ 
+
  
  <!-- 💼 I finished my Spring Co-op as a Data Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working primarily with Data Warehouses and creating ETL pipelines along with Front-end development & Automation Testing for a Virtual Voice-based Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer and Data Engineer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Low Code Program Application targetting the Beginner coders customer base helping them turn their ideas into reality with minimal infrastructure with the help of our curated boilerplate suggestions available in multiple environments
+ - 🌱 I’m currently learning DataStructures & Algorithms
+    
+- 🤔 I’m looking for help with Competitive Coding
+   
+- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**-->
  
@@ -146,6 +155,15 @@
   </a>-->
 </div>
 
+<div align="center">  
+</div>  
+<div align="center">  
+
+[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishkandukuri-git&show_icons=true&theme=dracula)](https://github.com/Manishkandukuri-git/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkandukuri-git&size_weight=0.5&count_weight=0.5)](https://github.com/Manishkandukuri-git/github-readme-stats)
+
+</div>
 <div align="left">
   <h2>Contributions</h2>
   <br>
@@ -158,3 +176,6 @@
   
   <br/><br/><br/>
 </div>
+
+
+
