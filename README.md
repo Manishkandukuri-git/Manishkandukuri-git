@@ -11,14 +11,14 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> Hi There! I'm Manish Kandukuri!
 </h2>
 
-<h3 align="center">Full Stack Data Engineer and Software Enthusiast from United States 🇺🇸</h3>
+<h3 align="center">Full Stack Software Engineer and Data Enthusiast from San Diego, CA, United States 🇺🇸</h3>
 
 <br/>
 
 
 <div align="left">
- 
- 🎒 I’m currently finishing my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
+
+ 🎒 I’m graduated with  my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
 
  🔭 Graduating in May 2024, I am open to Full Time roles in the US in **Front-end, Full Stack and Software Engineering**
 
