@@ -18,7 +18,7 @@
 
 <div align="left">
 
- 🎒 I’m graduated with  my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
+ 🎒 I graduated with  my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
 
  🔭 Graduated in May 2024, I am open to Full Time roles in the US in **Software Engineering**
 
