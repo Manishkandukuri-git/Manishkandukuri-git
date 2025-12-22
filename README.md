@@ -20,7 +20,7 @@
 
  🎒 I’m graduated with  my **Masters** in Software Engineering at Northeastern University, Boston 🇺🇸
 
- 🔭 Graduating in May 2024, I am open to Full Time roles in the US in **Front-end, Full Stack and Software Engineering**
+ 🔭 Graduated in May 2024, I am open to Full Time roles in the US in **Software Engineering**
 
  🔭 I’m a learner, working on improving Web Development skills
  
@@ -35,7 +35,7 @@
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**-->
  
- 🌱 I’m currently learning/working on **Talend, PySpark, AWS Cloud Services, Airflow, Cloud Analytics and a bit of ThreeJS for a passion project**
+ 🌱 I’m currently learning/working on **C / C++, Python, PySpark, AWS Cloud Services, Airflow, Cloud Analytics for a passion project**
 
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Cooking, Swimming 🏊🏻
  
